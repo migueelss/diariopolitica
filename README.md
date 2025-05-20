@@ -1,0 +1,2 @@
+# diariopolitica
+Diário da Política.
